@@ -9,7 +9,9 @@
     <meta name="author" content="Wilman Ngey">
 
     <title>Coming Soon - {{setting('site.title')}}</title>
+
     <link rel="shortcut icon" href="{{ asset('img/favicon.ico') }}">
+
     <!-- Bootstrap core CSS -->
     <link href="{{ asset('coming/vendor/bootstrap/css/bootstrap.min.css') }}" rel="stylesheet">
 
